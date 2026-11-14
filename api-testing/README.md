@@ -7,7 +7,7 @@
 | Файл | Содержание |
 |---|---|
 | `api-testing.postman_collection.json` | Коллекция запросов Postman для проверки расчёта доставки, работы с корзиной, создания набора и пользователя |
-| `api_checklist_and_bugreport.xlsx` | Примеры тестовой документации |
+| `api_checklist_and_bugreport.xlsx`(https://docs.google.com/spreadsheets/d/1tpiiOM2OIE2_wWQBdVRLVA8jChrT_8X83pkQJLnrHBE/edit?usp=sharing) | Примеры тестовой документации |
 
 ## Область проверок
 
