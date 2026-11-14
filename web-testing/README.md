@@ -4,7 +4,7 @@
 
 ## Содержание
 
-Материалы собраны в файле [`web_testcase_andbugreport`](https://docs.google.com/spreadsheets/d/1mOQd9REpLdHbpGupaeqBWLjayFL7ndrWHSQuLmb5nD8/edit?usp=sharing), который содержит следующие листы:
+Материалы собраны в файле [`web_testcase_and_bugreport`](https://docs.google.com/spreadsheets/d/1mOQd9REpLdHbpGupaeqBWLjayFL7ndrWHSQuLmb5nD8/edit?usp=sharing), который содержит следующие листы:
 
 *   **Тест-кейсы:** Проверка формы добавления водительских прав.
 *   **Баг-репорты:** Найденные дефекты. 
