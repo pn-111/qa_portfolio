@@ -19,7 +19,7 @@
 
 **Документация и ручное тестирование:** Google Sheets, Markdown, Postman.
 **Базы данных:** SQLite, VS Code (расширение SQLite).
-**Автоматизация:** Python 3.x, Playwright, Pytest, Requests, Page Object Model (POM).
+**Автоматизация:** Python 3.x, Playwright, Pytest, Requests, паттерн проектирования Page Object Model (POM).
 **Окружение:** Windows 10 (21H2), Firefox / Яндекс Браузер, разрешение 1920x1080.
 **Методы тест-дизайна:** классы эквивалентности, анализ граничных значений, позитивное и негативное тестирование.
 
@@ -86,7 +86,7 @@
 
 Автоматизация тестирования веб-приложения [SauceDemo](https://www.saucedemo.com/).
 
-- **Стек:** Python 3.x, Playwright, Pytest, Page Object Model (POM).
+- **Стек:** Python 3.x, Playwright, Pytest, паттерн проектирования Page Object Model (POM).
 - **Структура:** `pages/` (Page Object), `tests/` (тесты), `conftest.py` (фикстуры), `requirements.txt`.
 - **Запуск:** `pip install -r requirements.txt`, `playwright install`, `pytest`.
 
